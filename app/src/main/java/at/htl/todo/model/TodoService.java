@@ -5,6 +5,7 @@ package at.htl.todo.model;
 
 import android.util.Log;
 
+import java.util.Arrays;
 import java.util.concurrent.CompletableFuture;
 
 import javax.inject.Inject;
